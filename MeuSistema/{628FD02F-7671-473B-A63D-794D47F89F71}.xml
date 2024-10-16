@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration date="2024/10/15" author="e.World Technology Ltd.">
+  <project id="{628FD02F-7671-473B-A63D-794D47F89F71}" file="C:\Projetos\Meu Sistema\MeuSistema.pmp" name="MeuSistema" product="PHPMaker" version="15.0" datetime="2024/10/15 22:21:56" languagefolder="phplang" userlevel="-2,&quot;Anonymous&quot;,0;">
+    <table id="contas" name="contas" caption="contas" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="veiculos" name="veiculos" caption="veiculos" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="controle_combustiveis" name="controle_combustiveis" caption="controle combustiveis" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="contas_pagar" name="contas_pagar" caption="contas pagar" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+  </project>
+</configuration>
